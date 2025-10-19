@@ -1,0 +1,8 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="300" fill="#1a1a3a" rx="15"/>
+    <path d="M50 150 L150 100 L250 200 L350 150" stroke="rgba(58, 58, 90, 0.5)" stroke-width="3"/>
+    <path d="M50 200 L150 150 L250 250 L350 200" stroke="rgba(58, 58, 90, 0.5)" stroke-width="3"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Poppins, sans-serif" font-size="24" fill="#6a6a8a">
+        Project Image
+    </text>
+</svg>
